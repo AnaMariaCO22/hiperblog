@@ -41,6 +41,11 @@ body
 }
 #post
 {
-    background-attachment: white;
-    padding: 1em;
+    padding: 0px;
+}
+#footer
+{
+    background: #777;
+    color: wheat;
+    text-align: center;
 }
