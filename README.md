@@ -7,4 +7,9 @@ Un repositorio para aprender todo el tema de repositorios
 * El flujo de trabajo en Git
 * El verdadero amor por las buenas prácticas
 * Creado por el increible platzi team
+<<<<<<< HEAD
+=======
+* Inckuye ejemplos, en windows, linux y Mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 *[ve a ver la clase](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ve a ver la clase")*
