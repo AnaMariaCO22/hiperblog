@@ -8,4 +8,5 @@ Un repositorio para aprender todo el tema de repositorios
 * El verdadero amor por las buenas prácticas
 * Creado por el increible platzi team
 * Inckuye ejemplos, en windows, linux y Mac
+* Disponible para todas las edades
 *[ve a ver la clase](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ve a ver la clase")*
